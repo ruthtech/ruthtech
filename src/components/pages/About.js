@@ -48,17 +48,17 @@ function About() {
 const skillSets = [
   {
     title: "Tools and Tests",
-    skills: ["Git", "JUnit", "JEST", "Visual Code", "Eclipse"],
+    skills: ["Git", "JUnit", "Mockito", "JEST"],
     skillColour: 'bg-lightBlue'
   },
   {
     title: "Soft skills",
-    skills: ["Problem solver", "Analytical", "Organized", "Work well in a team or as an individual", "Thorough"],
+    skills: ["Problem solver", "Analytical", "Organized", "Works well in a team or as an individual", "Thorough"],
     skillColour: 'bg-mediumBlue'
   },
   {
     title: "Programming",
-    skills: ["Java", "MERN", "OOP", "JavaScript", "SQL"],
+    skills: ["Java", "NoSQL", "MERN", "OOP", "JavaScript", "SQL"],
     skillColour: 'bg-darkBlue'
   }
 ];
