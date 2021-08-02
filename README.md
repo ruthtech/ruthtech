@@ -22,10 +22,8 @@ To see an example of this, view my portfolio pages.
 - :mask: **_Fun fact:_** Returned to work after a 10-year career break raising my children.
   Right as I started my new job the pandemic started. The only time I've been in
   the office was during my job interview. 
-
-> :octocat: [See my portfolio repository](https://github.com/ruthtech/ruthtechportfolio)
-
-> :arrow_forward: [See my live portfolio](https://ruthtech.github.io/ruthtechportfolio)
+- :arrow_forward: [See my portfolio](https://ruthtech.github.io/ruthtechportfolio)
+- :octocat: [See the repository behind the portfolio](https://github.com/ruthtech/ruthtechportfolio)
 
  
 
