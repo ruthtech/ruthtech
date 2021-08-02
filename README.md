@@ -20,7 +20,7 @@ No automated test suite has been created, but you can check Google Chrome's Deve
 ## Deployment
 To deploy this on a live system, copy all the files to your server. 
 
-To view this on a live system, go to https://ruthtech.github.io/ruthtech/
+To view this on a live system, go to https://ruthtech.github.io/ruthtechportfolio/
 
 ## Built With
 * [Visual Studio Code] https://code.visualstudio.com/docs/setup/setup-overview
