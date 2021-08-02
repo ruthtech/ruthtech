@@ -10,20 +10,17 @@ These docs explain the formatting that GitHub supports in its README.md files.
 * [Emojis on GitHub](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 * [How to customize your GitHub landing page](https://medium.com/@saketprag322/customize-your-github-landing-page-cad846575bea)
   
-If you want to host a website on GitHub, you need to larn GitHub Pages.
-To see an example of this, view my portfolio pages.
+If you want to host a website on GitHub, you need to learn GitHub Pages.
+To see an example of this, view my portfolio pages in the _About Me_ section.
 * [GitHub Pages Documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
-* [Example of GitHub Pages - my portfolio](https://github.com/ruthtech/ruthtechportfolio)
-* [Repository behind my portfolio site](https://github.com/ruthtech/ruthtechportfolio)
-
 
 ### About Me
 - :book: **_Learning:_** I’m currently learning MongoDB and Apache Kafka.
-- :mask: **_Fun fact:_** Returned to work after a 10-year career break raising my children.
+- :arrow_forward: **_My portfolio:_** (https://ruthtech.github.io/ruthtechportfolio)
+- :octocat: **_Repository behind my portfolio site:_** (https://github.com/ruthtech/ruthtechportfolio)
+- :mask: **_Fun fact:_** I returned to work after a 10-year career break raising my children.
   Right as I started my new job the pandemic started. The only time I've been in
   the office was during my job interview. 
-- :arrow_forward: [See my portfolio](https://ruthtech.github.io/ruthtechportfolio)
-- :octocat: [See the repository behind the portfolio](https://github.com/ruthtech/ruthtechportfolio)
 
  
 
