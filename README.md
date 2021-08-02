@@ -19,11 +19,14 @@ To see an example of this, view my portfolio pages.
 
 ### About Me
 - :book: **_Learning:_** I’m currently learning MongoDB and Apache Kafka.
-- ::  **_Skills:_** 
 - :mask: **_Fun fact:_** Returned to work after a 10-year career break raising my children.
   Right as I started my new job the pandemic started. The only time I've been in
   the office was during my job interview. 
 
-<button type="button" style="background-color:black;border-radius:13px;padding:1em"><a href="https://github.com/ruthtech/ruthtechportfolio">See my portfolio repository</a></button> <button type="button" style="background-color:black;border-radius:13px;padding:1em"><a href="https://ruthtech.github.io/ruthtechportfolio/">See my live portfolio</a></button>
+> :octocat: [See my portfolio repository](https://github.com/ruthtech/ruthtechportfolio)
+
+> :arrow_forward: [See my live portfolio](https://ruthtech.github.io/ruthtechportfolio)
+
+ 
 
 
