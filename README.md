@@ -1,16 +1,28 @@
-### Hi there 👋
+### This is an example of a customized GitHub landing page
+When I first heard that GitHub added the ability to customize the profile's
+landing page, I imagined something like a fully-customizable home page. Nope. 
+It means that your landing page displays the README.md from your self-named 
+repository. Nice.
 
-<!--
-**ruthtech/ruthtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+These docs explain the formatting that GitHub supports in its README.md files. 
+* [Writing on GitHub](https://docs.github.com/en/github/writing-on-github)
+* [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)  
+* [Emojis on GitHub](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+* [How to customize your GitHub landing page](https://medium.com/@saketprag322/customize-your-github-landing-page-cad846575bea)
+  
+If you want to host a website on GitHub, you need to larn GitHub Pages.
+To see an example of this, view my portfolio pages.
+* [GitHub Pages Documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
+* [Example of GitHub Pages - my portfolio](https://github.com/ruthtech/ruthtechportfolio)
+* [Repository behind my portfolio site](https://github.com/ruthtech/ruthtechportfolio)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- :book: **_Learning:_** I’m currently learning MongoDB and Apache Kafka.
+- ::  **_Skills:_** 
+- :mask: **_Fun fact:_** Returned to work after a 10-year career break raising my children.
+  Right as I started my new job the pandemic started. The only time I've been in
+  the office was during my job interview. 
+
+<button type="button" style="background-color:black;border-radius:13px;padding:1em"><a href="https://github.com/ruthtech/ruthtechportfolio">See my portfolio</a></button>
+
