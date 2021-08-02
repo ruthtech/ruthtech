@@ -10,7 +10,7 @@ These docs explain the formatting that GitHub supports in its README.md files.
 * [Emojis on GitHub](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 * [How to customize your GitHub landing page](https://medium.com/@saketprag322/customize-your-github-landing-page-cad846575bea)
   
-If you want to host a website on GitHub, you need to larn GitHub Pages.
+If you want to host a website on GitHub, you need to learn GitHub Pages.
 To see an example of this, view my portfolio pages.
 * [GitHub Pages Documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
 * [Example of GitHub Pages - my portfolio](https://github.com/ruthtech/ruthtechportfolio)
