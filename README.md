@@ -24,5 +24,6 @@ To see an example of this, view my portfolio pages.
   Right as I started my new job the pandemic started. The only time I've been in
   the office was during my job interview. 
 
-<button type="button" style="background-color:black;border-radius:13px;padding:1em"><a href="https://github.com/ruthtech/ruthtechportfolio">See my portfolio</a></button>
+<button type="button" style="background-color:black;border-radius:13px;padding:1em"><a href="https://github.com/ruthtech/ruthtechportfolio">See my portfolio repository</a></button> <button type="button" style="background-color:black;border-radius:13px;padding:1em"><a href="https://ruthtech.github.io/ruthtechportfolio/">See my live portfolio</a></button>
+
 
