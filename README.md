@@ -9,9 +9,9 @@ username, and add a README.md in it. That's it.
 
 For example, my username is _ruthtech_, and this is what I did:
 1. I had an existing repository named _ruthtech_, which held my portfolio. First I renamed that 
-   repository to _ruthtechportfolio_.
+   repository to _ruthlee_.
 2. Then I created a new repository named _ruthtech_, and added a README.md.
-3. I edited my profile in GitHub to update all former links to _ruthtechportfolio_, updated paths
+3. I edited my profile in GitHub to update all former links to _ruthlee_, updated paths
    in my portfolio code, and redeployed my React portfolio code. 
 
 <br />
