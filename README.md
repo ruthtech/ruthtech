@@ -36,7 +36,7 @@ To see an example of this, view my portfolio pages in the _About Me_ section.
 - :arrow_forward: **_My portfolio:_** https://ruthtech.github.io/ruthlee/#/
 - :octocat: **_Repository behind my portfolio site:_** https://github.com/ruthtech/ruthlee
 - :mask: **_Fun fact:_** I returned to work after a 10-year career break raising my children.
-  Right as I started my new job the pandemic started. I've been in the office three times other than my job interview. 
+  Right as I started my new job the pandemic started.  
 
  
 
