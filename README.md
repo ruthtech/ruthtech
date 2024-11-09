@@ -32,7 +32,7 @@ To see an example of this, view my portfolio pages in the _About Me_ section.
 <br />
 
 ### About Me
-- :book: **_Learning:_** I’m currently learning MongoDB and Apache Kafka.
+- :book: **_Learning:_** I’m currently learning Python and data engineering.
 - :arrow_forward: **_My portfolio:_** https://ruthtech.github.io/ruthlee/#/
 - :octocat: **_Repository behind my portfolio site:_** https://github.com/ruthtech/ruthlee
 - :mask: **_Fun fact:_** I returned to work after a 10-year career break raising my children.
