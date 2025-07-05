@@ -32,12 +32,6 @@ To see an example of this, view my portfolio pages in the _About Me_ section.
 <br />
 
 ### About Me
-- :book: **_Learning:_** I’m currently learning Python and data engineering.
+- :book: **_Learning:_** Lately I've been learning about data engineering: Python, Apache Spark, refreshing my SQL. 
 - :arrow_forward: **_My portfolio:_** https://ruthtech.github.io/ruthlee/#/
 - :octocat: **_Repository behind my portfolio site:_** https://github.com/ruthtech/ruthlee
-- :mask: **_Fun fact:_** I returned to work after a 10-year career break raising my children.
-  Right as I started my new job the pandemic started.  
-
- 
-
-
